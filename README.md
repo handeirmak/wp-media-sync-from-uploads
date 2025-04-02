@@ -47,3 +47,5 @@ Made with ❤️ by [handeirmak](https://github.com/handeirmak)
 ## 📄 License
 
 MIT — use, modify, and share freely.
+
+![Built with ❤️ by Hande](https://img.shields.io/badge/built%20with-%E2%9D%A4-hotpink)
